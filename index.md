@@ -1,9 +1,11 @@
 ## About me
 
-Hi! My name is Hadrien Cornier and I am an machine learning engineer with a focus on pipelines, computer vision and inference at the edge.
+Hi! My name is Hadrien Cornier and I am a machine learning engineer with a focus on pipelines, computer vision and inference at the edge.
+I currently live in Jersey City (basically New York City) and I have an H1B status.
+I'm interested in positions that could allow me to develop skills for automating machine learning pipelines and/or putting state of the art research ideas into production.
 
 ## Studies
-I studied Computer Science and Mathematics at École polytechnique and Data Science at Columbia University.
+I studied Computer Science and Mathematics at École polytechnique (France) and Data Science at Columbia University.
 
 ## Work
 
@@ -19,9 +21,8 @@ I did a research internship in summer 2017 the BULL Quantum team in charge of th
 
 # Skills
 Software :
-  - Python (pytorch, pytorch lightning, pandas, opencv, mlflow, raytune, ...) 
-  - C++ (Gstreamer, NVIDIA's DeepStream)
-  - PostgresSQL, Time-series databases : timescaleDB, mongoDB
+  - Python (pytorch, pandas, opencv, and all the other data science stuff...) 
+  - C++ (Gstreamer, NVIDIA's DeepStream) 
   - Linux
 
 Databases : 
@@ -33,7 +34,7 @@ Hardware :
   - Raspberry Pi
 
 Cloud technologies : 
-  - AWS
+  - AWS 
 
 # Hobbies
 In my free time I love Jiu-Jitsu, scuba-diving and making small gadgets with my 3d printer
