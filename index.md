@@ -12,9 +12,9 @@ I studied Computer Science and Mathematics at École polytechnique (France) (201
 
 ## Work
 
-I've been working in startups with a focus on bringing into production/optimizing research in the field of artificial intelligence but also learning cross disciplinary skills.
+I've been working in startups with a focus on bringing into production/optimizing research in machine learning but also learning skills in devops and data engineering to be able to build products from scratch.
 
-After graduating in 2020, I joined a well funded stealth startup in NYC, where I have been doing end-to-end engineering on a fleet of AI enabled IoT sensors for a large US retail chain. I rebuilt from scratch the legacy data pipeline and database backend of the fleet using new streaming technologies and timeseries databases and made it capable of real-time monitoring and automated error-detection and using this tool we were able to dramatically increase the reliability of the network. I also learned to deploy automatically and package embedded neural network models using technologies like Pytorch/ONNX/TensoRT and Gstreamer/Deepstream to accelerate inference at the edge on low-power devices.
+After graduating in 2020, I joined a well funded stealth startup in NYC, where I have been doing end-to-end engineering on a fleet of AI enabled IoT sensors for a large US retail chain. I rebuilt the legacy ETL and database backend of the fleet using new streaming technologies like Kinesis/Kafka and a timeseries datababase (timescale) and made it capable of scaling, real-time monitoring and automated error-detection and using this tool we were able to dramatically increase the reliability of the network. I also learned to train & deploy embedded neural network models using technologies like Pytorch/ONNX/TensoRT and Gstreamer/Deepstream to accelerate inference at the edge on low-power devices.
 
 When I was at Revelio labs in summer 2019, I built a hyperparameter tuning pipeline to drive down the error of the main model from 18 to 8% using distributed computing and I worked on improving the stability and the quality of the code base, while learning about different AWS tools.
 
