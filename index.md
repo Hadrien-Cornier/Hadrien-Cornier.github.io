@@ -1,6 +1,6 @@
 ## About me
 
-[](https://github.com/Hadrien-Cornier/hadrien-cornier.github.io/blob/master/images/deepdreampic.png){: .image-left } Hi! My name is Hadrien Cornier and I am a machine learning engineer with a focus on pipelines, computer vision and inference at the edge.
+![image](https://github.com/Hadrien-Cornier/hadrien-cornier.github.io/blob/master/images/deepdreampic.png){: style="float: left"} Hi! My name is Hadrien Cornier and I am a machine learning engineer with a focus on pipelines, computer vision and inference at the edge.
 I currently live in Jersey City (basically New York City) and I have an H1B status.
 I'm interested in positions that could allow me to develop skills for automating machine learning pipelines and/or putting state of the art research ideas into production.
 
