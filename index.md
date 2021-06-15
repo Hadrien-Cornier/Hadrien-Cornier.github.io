@@ -8,7 +8,7 @@ I currently live in Jersey City (basically New York City) and I have an H1B stat
 I'm interested in positions that could allow me to develop skills for automating machine learning pipelines and/or putting research ideas into production.
 
 ## Studies
-I studied Computer Science and Mathematics at École polytechnique (France) and Data Science at Columbia University.
+I studied Computer Science and Mathematics at École polytechnique (France) (2015-2018) and Data Science at Columbia University (2018-2020).
 
 ## Work
 
